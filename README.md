@@ -1,4 +1,4 @@
-# Proxy Scraper
+# Proxy Scrapper
 
 
 Collection of proxy types for free 
@@ -11,4 +11,9 @@ Get at least 5K proxies!
 
 - Download and install Golang On System
 
+# Run
 
+```
+git clone https://github.com/Mr-Spect3r/Proxy-Scrapper
+cd Proxy-Scrapper
+go run Proxy.go```
