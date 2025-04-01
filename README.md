@@ -16,4 +16,5 @@ Get at least 5K proxies!
 ```
 git clone https://github.com/Mr-Spect3r/Proxy-Scrapper
 cd Proxy-Scrapper
-go run Proxy.go```
+go run Proxy.go
+```
