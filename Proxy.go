@@ -1,4 +1,4 @@
-// Telegram: @esfelurm
+// Telegram: @MrEsfelurm
 
 package main
 
@@ -33,7 +33,7 @@ func main() {
 | (    )|| (    )|| (   ) |( \   / )( \   / )
 | (____)|| (____)|| |   | | \ (_) /  \ (_) / 
 |  _____)|     __)| |   | |  ) _ (    \   /  
-| (      | (\ (   | |   | | / ( ) \    ) (  Tg: @esfelurm 
+| (      | (\ (   | |   | | / ( ) \    ) (  Tg: @MrEsfelurm 
 | )      | ) \ \__| (___) |( /   \ )   | |   
 |/       |/   \__/(_______)|/     \|   \_/`, yw)
 	fmt.Printf("\n\n\n%sEnter Type Proxy (1: SOCKS4, 2: SOCKS5, 3: HTTP, 4: HTTPS): %s", cn, gn)
